@@ -1,0 +1,12 @@
+Employee Payroll System ↓
+
+solution that manages, maintains, and automates payments to employees.
+
+
+Project Structure :
+Abstract class Employee     Parent
+class full_Time_Employee    Child       ID, Name, Salary.
+class Part_Time_Employee    Child       no.of hours * hourly Rate
+class Payroll_System
+
+
